@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+
+    <fieldset> <legend>Biodata</legend>  <form> 
+        <label for="Input Name">Name</label>
+    <input type="text"  id="Input Name" placeholder="Enter Your Full Name">
+    <br><label for="DOB"> Date Of Birth</label>
+    <input type="date" id="DOB" placeholder="Enter date of birth"
+     </br>
+    <br> <label for="Enter Email">Email</label>
+    <input type="email"  id="Enter Email" placeholder="Enter Email">
+
+
+</br>
+
+        
+    </form></fieldset>
+ 
+
+</body>
+</html>
